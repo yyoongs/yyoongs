@@ -1,14 +1,14 @@
-### 🧑🏻‍💻 Backend Developer
+## 🧑🏻‍💻 Backend Developer
 
  ✏️ Graduated Oregon State Univ.
- 
+
  🌱 Learning Web full stack
  
 
-<div align=center><h4>⚒Tech Stack</h4></div>
+<div align=center><h3>⚒Tech Stack</h3></div>
 
 <div align=center> 
-   <h3> Programming languague</h3>
+   <h5> Programming languague</h5>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
@@ -32,8 +32,8 @@
  
 </div>
 <br>
-️ 
- 📫 How to reach me: yyoongss@gmail.com
+️
+#### 📫 How to reach me: <a href="mailto:yyoongss@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yyoongss@gmail.com"/></a>
 
 <!--
 **yyoongs/yyoongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
