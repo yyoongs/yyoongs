@@ -33,7 +33,7 @@
 </div>
 <br>
 ️
-#### 📫 How to reach me: <a href="mailto:yyoongss@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yyoongss@gmail.com"/></a>
+📫 How to reach me: <a href="mailto:yyoongss@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yyoongss@gmail.com"/></a>
 
 <!--
 **yyoongs/yyoongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
